@@ -1,0 +1,1 @@
+Les pieces du chassis sont dans le dossier "Chassis STL"
