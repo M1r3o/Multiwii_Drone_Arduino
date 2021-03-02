@@ -1,5 +1,7 @@
 # Multiwii_Drone_Arduino
 
+![Brigitte_Drone](https://github.com/M1r3o/Multiwii_Drone_Arduino/blob/main/chassis%20STL%20&%20SolidWorks/Drone%20Brigitte.jpg?raw=true)
+
 this project has maked with arduino nano and a GY6521 (MPU6050) and 3D print frame  
 I maked this project in the second years of high school, the Arduino program are created by french developer, they want to created a multicopter with a nunchuck gyroscope  
 at over time, their code has evolved offering stability and safety  
@@ -15,6 +17,6 @@ at over time, their code has evolved offering stability and safety
 * ## Propellers compatible with your Motor
 * ## some connector
 * ## a solder breadboard
-* some connector to connect your system
-![Brigitte_Drone](https://github.com/M1r3o/Multiwii_Drone_Arduino/blob/main/chassis%20STL%20&%20SolidWorks/Drone%20Brigitte.jpg?raw=true)
+* ## some connector to connect your system
+
 
